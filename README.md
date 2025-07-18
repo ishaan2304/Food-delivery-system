@@ -1,2 +1,2 @@
-# Food-delivery-system
-food delivery system using python and sql database.
+# Food-delivery-syste
+food delivery system using python and sql database
